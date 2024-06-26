@@ -1,0 +1,110 @@
+{
+  "videos": [
+    {
+      "caption": "Charlie",
+      "image": "https://c.saavncdn.com/276/Charlie-Malayalam-2015-500x500.jpg",
+      "url": "https://www.youtube.com/embed/SmNJYC1Awug",
+      "id": 6
+    },
+    {
+      "caption": "BALLAATHA JAATHI",
+      "image": "https://images.genius.com/be5e3e4e59df6553076650387cfbb1f9.600x600x1.jpg",
+      "url": "https://www.youtube.com/embed/rhrD7as3KJg",
+      "id": 7
+    },
+    {
+      "caption": "Illuminati",
+      "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 8
+    },
+    {
+      "caption": "Leo - Badass ",
+      "image": "https://i.ytimg.com/vi/IqwIOlhfCak/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/ZdMZ40GSVmc",
+      "id": 9
+    },
+    {
+      "caption": "ANIMAL",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg",
+      "url": "https://www.youtube.com/embed/iAIBF2ngbWY",
+      "id": 10
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "Hindi Dongs",
+      "allVideo": [
+        {
+          "caption": "ANIMAL",
+          "image": "https://upload.wikimedia.org/wikipedia/en/9/90/Animal_%282023_film%29_poster.jpg",
+          "url": "https://www.youtube.com/embed/iAIBF2ngbWY",
+          "id": 10
+        }
+      ],
+      "id": 2
+    },
+    {
+      "CategoryName": "Malayalam Songs",
+      "allVideo": [
+        {
+          "caption": "Illuminati",
+          "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 8
+        },
+        {
+          "caption": "Charlie",
+          "image": "https://c.saavncdn.com/276/Charlie-Malayalam-2015-500x500.jpg",
+          "url": "https://www.youtube.com/embed/SmNJYC1Awug",
+          "id": 6
+        }
+      ],
+      "id": 3
+    },
+    {
+      "CategoryName": "Tamil Songs",
+      "allVideo": [
+        {
+          "caption": "Leo - Badass ",
+          "image": "https://i.ytimg.com/vi/IqwIOlhfCak/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/ZdMZ40GSVmc",
+          "id": 9
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "BALLAATHA JAATHI",
+      "url": "https://www.youtube.com/embed/rhrD7as3KJg",
+      "timeStamp": "21/06/2024, 12:03:00",
+      "id": 38
+    },
+    {
+      "caption": "Illuminati",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "21/06/2024, 12:05:09",
+      "id": 39
+    },
+    {
+      "caption": "MALABARI BANGER",
+      "url": "https://www.youtube.com/embed/DvS1rlMA64c",
+      "timeStamp": "21/06/2024, 12:09:31",
+      "id": 41
+    },
+    {
+      "caption": "BALLAATHA JAATHI",
+      "url": "https://www.youtube.com/embed/rhrD7as3KJg",
+      "timeStamp": "21/06/2024, 12:10:05",
+      "id": 42
+    },
+    {
+      "caption": "ANIMAL",
+      "url": "https://www.youtube.com/embed/iAIBF2ngbWY",
+      "timeStamp": "25/06/2024, 10:51:23",
+      "id": 43
+    }
+  ]
+}
